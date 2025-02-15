@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "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" # внутри скобок свой апи ключ отсюда https://openrouter.ai/settings/keys
+API_KEY = "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" # внутри скобок свой апи ключ отсюда https://openrouter.ai/settings/keys
 MODEL = "deepseek/deepseek-r1"
 
 def process_content(content):
